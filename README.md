@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou Willian Wittienzo Bissiato Silva
 
-<!--
-**WillianWittienzo/WillianWittienzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Full-Stack**  
+🎯 Atualmente focado em **Front-end**  
+🤖 Futuramente caminhando para **Desenvolvimento de IA**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou desenvolvedor em constante aprendizado, com foco atual no ecossistema front-end moderno.  
+Trabalho com aplicações web usando **Next.js**, estudando **Node.js** no back-end e me preparando para avançar na área de **Inteligência Artificial**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Front-end
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Next.js
+
+### Back-end
+- Node.js (básico / em aprendizado)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillBiss&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillBiss&layout=compact&theme=dark)
+
+---
+
+## 📌 Objetivos
+- Evoluir no desenvolvimento **Front-end**
+- Consolidar conhecimentos em **Full-Stack**
+- Migrar futuramente para **Desenvolvimento de IA**
+- Criar projetos reais e consistentes
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: https://www.linkedin.com/feed/
+- ✉️ Email: wwittienzo@gmail.com
+
