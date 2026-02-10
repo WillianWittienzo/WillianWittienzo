@@ -1,29 +1,38 @@
-# 👋 Olá, eu sou Willian Wittienzo Bissiato Silva
+# 👋 Olá, eu sou Will
 
 💻 **Desenvolvedor Full-Stack**  
 🎯 Atualmente focado em **Front-end**  
-🤖 Futuramente caminhando para **Desenvolvimento de IA**
+🤖 Futuramente caminhando para **Desenvolvimento de IA**  
+🇺🇸 Inglês: **Básico**  
+🏢 Membro da **Empresa Júnior StarkJR**
 
 ---
 
 ## 🚀 Sobre mim
 Sou desenvolvedor em constante aprendizado, com foco atual no ecossistema front-end moderno.  
-Trabalho com aplicações web usando **Next.js**, estudando **Node.js** no back-end e me preparando para avançar na área de **Inteligência Artificial**.
+Atualmente trabalho na **Empresa Júnior StarkJR**, desenvolvendo projetos web e evoluindo minhas habilidades técnicas e profissionais.
+
+Uso **Next.js** no front-end, estudo **Node.js** no back-end e tenho como objetivo futuro atuar com **Inteligência Artificial**.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Front-end
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- Next.js
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
 
 ### Back-end
-- Node.js (básico / em aprendizado)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -34,15 +43,14 @@ Trabalho com aplicações web usando **Next.js**, estudando **Node.js** no back-
 
 ---
 
-## 📌 Objetivos
-- Evoluir no desenvolvimento **Front-end**
-- Consolidar conhecimentos em **Full-Stack**
-- Migrar futuramente para **Desenvolvimento de IA**
-- Criar projetos reais e consistentes
+## 🎯 Objetivos
+- Evoluir como **Front-end Developer**
+- Consolidar conhecimentos **Full-Stack**
+- Atuar futuramente com **Inteligência Artificial**
+- Construir projetos reais e bem documentados
 
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/feed/
-- ✉️ Email: wwittienzo@gmail.com
-
+- 💼 LinkedIn: https://linkedin.com/in/seu-link
+- ✉️ Email: seuemail@email.com
