@@ -45,5 +45,5 @@ Uso **Next.js** no front-end, estudo **Node.js** no back-end e tenho como objeti
 ---
 
  ## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/feed/
+- 💼 LinkedIn: www.linkedin.com/in/willian-wittienzo-610609314
 - ✉️ Email: wwittienzo@gmail.com
