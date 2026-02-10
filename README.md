@@ -36,14 +36,6 @@ Uso **Next.js** no front-end, estudo **Node.js** no back-end e tenho como objeti
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillianWittienzo&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillBiss&layout=compact&theme=dark)
-
----
-
 ## 🎯 Objetivos
 - Evoluir como **Front-end Developer**
 - Consolidar conhecimentos **Full-Stack**
