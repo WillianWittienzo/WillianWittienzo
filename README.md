@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou Will
+# 👋 Olá, eu sou Willian Wittienzo Bissiato Silva
 
 💻 **Desenvolvedor Full-Stack**  
 🎯 Atualmente focado em **Front-end**  
 🤖 Futuramente caminhando para **Desenvolvimento de IA**  
 🇺🇸 Inglês: **Básico**  
-🏢 Membro da **Empresa Júnior StarkJR**
+🏢 Membro da **Empresa Júnior starkjr.ifpr**
 
 ---
 
 ## 🚀 Sobre mim
 Sou desenvolvedor em constante aprendizado, com foco atual no ecossistema front-end moderno.  
-Atualmente trabalho na **Empresa Júnior StarkJR**, desenvolvendo projetos web e evoluindo minhas habilidades técnicas e profissionais.
+Atualmente trabalho na **Empresa Júnior starkjr.ifpr**, desenvolvendo projetos web e evoluindo minhas habilidades técnicas e profissionais.
 
 Uso **Next.js** no front-end, estudo **Node.js** no back-end e tenho como objetivo futuro atuar com **Inteligência Artificial**.
 
@@ -20,24 +20,25 @@ Uso **Next.js** no front-end, estudo **Node.js** no back-end e tenho como objeti
 
 ### Front-end
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="90"/>
 </p>
 
 ### Back-end
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillBiss&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillianWittienzo&show_icons=true&theme=dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillBiss&layout=compact&theme=dark)
 
@@ -51,6 +52,6 @@ Uso **Next.js** no front-end, estudo **Node.js** no back-end e tenho como objeti
 
 ---
 
-## 📫 Contato
-- 💼 LinkedIn: https://linkedin.com/in/seu-link
-- ✉️ Email: seuemail@email.com
+ ## 📫 Contato
+- 💼 LinkedIn: https://www.linkedin.com/feed/
+- ✉️ Email: wwittienzo@gmail.com
