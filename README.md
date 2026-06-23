@@ -1,44 +1,32 @@
 # 👋 Olá, eu sou Willian Wittienzo Bissiato Silva
 
-💻 **Desenvolvedor Full-Stack**  
-🎯 Atualmente focado em **Front-end**  
-🤖 Futuramente caminhando para **Desenvolvimento de IA**  
+💻 Desenvolvedor em Formação
+⚙️ Atualmente focado em Back-end com Node.js e TypeScript  
+🤖 Futuramente caminhando para **Desenvolvimento de IA 
 🇺🇸 Inglês: **Básico**  
-🏢 Membro da **Empresa Júnior starkjr.ifpr**
 
 ---
 
 ## 🚀 Sobre mim
-Sou desenvolvedor em constante aprendizado, com foco atual no ecossistema front-end moderno.  
-Atualmente trabalho na **Empresa Júnior starkjr.ifpr**, desenvolvendo projetos web e evoluindo minhas habilidades técnicas e profissionais.
-
-Uso **Next.js** no front-end, estudo **Node.js** no back-end e tenho como objetivo futuro atuar com **Inteligência Artificial**.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor em formação.
+Atualmente estou fortalecendo meus fundamentos em lógica de programação, algoritmos, estruturas de dados e desenvolvimento back-end, 
+utilizando principalmente Node.js e TypeScript para construir projetos e evoluir minha capacidade de desenvolver soluções de forma mais autônoma.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-
-### Front-end
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="90"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="90"/>
-</p>
-
-### Back-end
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
 ---
 
 ## 🎯 Objetivos
-- Evoluir como **Front-end Developer**
-- Consolidar conhecimentos **Full-Stack**
+
+- Desenvolvedor em Formação 
 - Atuar futuramente com **Inteligência Artificial**
 - Construir projetos reais e bem documentados
 
