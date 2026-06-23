@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Willian Wittienzo Bissiato Silva
 
-💻 Desenvolvedor em Formação
-⚙️ Atualmente focado em Back-end com Node.js e TypeScript  
-🤖 Futuramente caminhando para **Desenvolvimento de IA 
-🇺🇸 Inglês: **Básico**  
+- 💻 **Desenvolvedor em Formação**
+- ⚙️ Atualmente focado em Back-end com Node.js e TypeScript 
+- 🤖 Futuramente caminhando para **Desenvolvimento de IA** 
+- US Inglês: **Básico**  
 
 ---
 
@@ -26,7 +26,7 @@ utilizando principalmente Node.js e TypeScript para construir projetos e evoluir
 
 ## 🎯 Objetivos
 
-- Desenvolvedor em Formação 
+- Construir projetos Sozinho
 - Atuar futuramente com **Inteligência Artificial**
 - Construir projetos reais e bem documentados
 
